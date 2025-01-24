@@ -156,7 +156,7 @@ Alternatively, you can compile and run the program in one step using:
    > **Note:** The `cargo build` command compiles the program and generates an executable file in the `target/debug` directory. This is useful when you want to compile the code without immediately running it, for example, to inspect or use the binary later. On the other hand, `cargo run` combines building and executing the program in one step, making it convenient during development when you want to see the program's output right away.
 
 
-### **Step 6: Push to GitHub**
+### **Step 4**
 
 1. Stage files, and add a README:
    ```bash
