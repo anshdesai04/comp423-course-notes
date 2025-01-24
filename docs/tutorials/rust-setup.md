@@ -112,7 +112,7 @@ Create a new Rust project using Cargo:
 
 The `Cargo.toml` file contains metadata about the project, and `src/main.rs` is where you’ll write your program.
 
-### **Step 2:**
+### **Step 2**
 Write the "Hello, COMP423!" program:
 
 1. Open the `src/main.rs` file in your project directory. Replace its contents with the following code:
