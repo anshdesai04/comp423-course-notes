@@ -55,14 +55,9 @@ Set up a Dev Container configuration for your project:
      },
      "customizations": {
        "vscode": {
-         "extensions": [
-           "rust-lang.rust-analyzer"
-         ]
+         "extensions": ["rust-lang.rust-analyzer"]
        }
-     },
-     "mounts": [
-       "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"
-     ]
+     }
    }
    ```
 
