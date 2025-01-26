@@ -1,0 +1,39 @@
+[33m9563bfd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmkdocs-extensions[m[33m, [m[1;31morigin/edits/mkdocs-extensions[m[33m, [m[1;32medits/mkdocs-extensions[m[33m)[m HEAD@{0}: merge edits/mkdocs-extensions: Fast-forward
+[33mbe143b8[m[33m ([m[1;31morigin/mkdocs-extensions[m[33m)[m HEAD@{1}: checkout: moving from edits/mkdocs-extensions to mkdocs-extensions
+[33m9563bfd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmkdocs-extensions[m[33m, [m[1;31morigin/edits/mkdocs-extensions[m[33m, [m[1;32medits/mkdocs-extensions[m[33m)[m HEAD@{2}: checkout: moving from mkdocs-extensions to edits/mkdocs-extensions
+[33mbe143b8[m[33m ([m[1;31morigin/mkdocs-extensions[m[33m)[m HEAD@{3}: pull: Fast-forward
+[33m4ed0107[m HEAD@{4}: checkout: moving from main to mkdocs-extensions
+[33m0e67292[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{5}: checkout: moving from 9563bfd982c3ec14b3ac66e2e3df3a907a1fc647 to main
+[33m9563bfd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmkdocs-extensions[m[33m, [m[1;31morigin/edits/mkdocs-extensions[m[33m, [m[1;32medits/mkdocs-extensions[m[33m)[m HEAD@{6}: checkout: moving from main to origin/edits/mkdocs-extensions
+[33m0e67292[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{7}: commit: devcontainer fix
+[33mb8938b3[m HEAD@{8}: commit: removed colon from step 2
+[33mbdcbcd7[m HEAD@{9}: commit: fixed step 4
+[33m1bc0361[m HEAD@{10}: merge tutorial/rust-setup: Merge made by the 'ort' strategy.
+[33m52088a3[m HEAD@{11}: checkout: moving from tutorial/rust-setup to main
+[33m645e316[m[33m ([m[1;31morigin/tutorial/rust-setup[m[33m, [m[1;32mtutorial/rust-setup[m[33m)[m HEAD@{12}: commit: Add Rust tutorial
+[33m52088a3[m HEAD@{13}: Branch: renamed refs/heads/tutorial/go-setup to refs/heads/tutorial/rust-setup
+[33m52088a3[m HEAD@{15}: checkout: moving from tutorial/go-setup to tutorial/go-setup
+[33m52088a3[m HEAD@{16}: checkout: moving from main to tutorial/go-setup
+[33m52088a3[m HEAD@{17}: checkout: moving from main to main
+[33m52088a3[m HEAD@{18}: merge mkdocs-extensions: Merge made by the 'ort' strategy.
+[33mb0b836f[m HEAD@{19}: checkout: moving from mkdocs-extensions to main
+[33m4ed0107[m HEAD@{20}: commit: edits in Mkdocs
+[33mb0b836f[m HEAD@{21}: checkout: moving from main to mkdocs-extensions
+[33mb0b836f[m HEAD@{22}: commit: fixes
+[33m44092ec[m HEAD@{23}: merge mt04-setup: Merge made by the 'ort' strategy.
+[33m3cb2b2b[m HEAD@{24}: checkout: moving from mt04-setup to main
+[33m198fe15[m[33m ([m[1;31morigin/mt04-setup[m[33m, [m[1;32mmt04-setup[m[33m)[m HEAD@{25}: commit: fixing tags again?
+[33me87f203[m HEAD@{26}: commit (merge): Merge branch 'edits/mt04-setup' into mt04-setup
+[33m93055c0[m HEAD@{27}: checkout: moving from edits/mt04-setup to mt04-setup
+[33m28bdef8[m[33m ([m[1;31morigin/edits/mt04-setup[m[33m, [m[1;32medits/mt04-setup[m[33m)[m HEAD@{28}: pull: Fast-forward
+[33maf7a7cd[m HEAD@{29}: commit: added reviewer thing
+[33m2a04f65[m HEAD@{30}: checkout: moving from mt04-setup to edits/mt04-setup
+[33m93055c0[m HEAD@{31}: pull: Fast-forward
+[33m2a04f65[m HEAD@{32}: checkout: moving from mt04-setup to mt04-setup
+[33m2a04f65[m HEAD@{33}: checkout: moving from edits/mt04-setup to mt04-setup
+[33m2a04f65[m HEAD@{34}: checkout: moving from mt04-setup to edits/mt04-setup
+[33m2a04f65[m HEAD@{35}: checkout: moving from main to mt04-setup
+[33m3cb2b2b[m HEAD@{36}: commit: everything
+[33mf483090[m HEAD@{37}: commit: Set up GitHub Actions for deployment
+[33m3a594d4[m HEAD@{38}: commit: what is going on
+[33mdf33d8d[m HEAD@{39}: commit (initial): Initial commit with README
