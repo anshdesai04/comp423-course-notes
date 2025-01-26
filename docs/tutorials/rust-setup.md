@@ -111,7 +111,7 @@ The `Cargo.toml` file contains metadata about the project, and `src/main.rs` is 
 Write the "Hello, COMP423!" program:
 
 1. Open the `src/main.rs` file in your project directory. Replace its contents with the following code:
-   ```rust
+   ```
    fn main() {
        println!("Hello COMP423!");
    }
@@ -172,4 +172,4 @@ Alternatively, you can compile and run the program in one step using:
    git push --set-upstream origin main
    ```
 
-## **Congrats you have finished!**
+## **Congrats you have finished!** :smile:
