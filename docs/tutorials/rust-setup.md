@@ -148,7 +148,10 @@ Alternatively, you can compile and run the program in one step using:
    ```text
    Hello COMP423!
    ```
-   > **Note:** The `cargo build` command compiles the program and generates an executable file in the `target/debug` directory. This is useful when you want to compile the code without immediately running it, for example, to inspect or use the binary later. On the other hand, `cargo run` combines building and executing the program in one step, making it convenient during development when you want to see the program's output right away.
+
+!!! note
+    - **`cargo build`**: This command compiles the program and generates an executable file in the `target/debug` directory. It’s useful when you want to inspect or reuse the binary later without immediately running the program.
+    - **`cargo run`**: This command combines building and executing the program in a single step, which is convenient for quick testing during development.
 
 
 ### **Step 4**
